@@ -4,7 +4,7 @@
 ## Description
 This website showcases the works of Brenda Njoroge behind the lens. It shows the various forms of photography she specializes in which include portraits and wedding photography. 
 ## Project Setup Instructions
-* To view website and explore available packages click following link - 
+* To view website and explore available packages click following link - https://brendanjoroge.github.io/Photographer-Portfolio/
 ## Known Bugs
 No known bugs at the moment, should update if this changes.
 ## Technologies Used
